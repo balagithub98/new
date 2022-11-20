@@ -6,25 +6,10 @@ GitHub is where over 94 million developers shape the future of software, togethe
 
 Results from github.com
 
-Sign In
-GitHub is where people build software. More than 83 million...
-
-Join Github
-GitHub is where people build software. More than 94 million...
-
-Team
-“With GitHub Actions, deployments happen 75 percent...
-
-Enterprise
-GitHub helps enterprises put them all to work—in one place....
-
-Marketplace
-GitHub integrates with hundreds of tools that help you and...
-
 Features
 Get the right tools for the job. Automate your CI/CD and...
 
-Plans
+Plan
 GitHub Actions and Packages are free for public repositories...
 
 GitHub Support
